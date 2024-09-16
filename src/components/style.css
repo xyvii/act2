@@ -1,0 +1,18 @@
+/* I got too lazy with CSS, mb */
+
+html{
+    text-align: center;
+}
+
+ul{
+    list-style-type: none;
+    margin-right: 30px;
+    padding: 20px;
+    overflow: hidden;
+}
+
+li{
+    float: right;
+    padding-right: 30px;
+}
+
